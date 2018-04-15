@@ -1,0 +1,23 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jest": true,
+    "node": true,
+    "mocha": true
+  },
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "rules": {
+    "max-len": 0,
+    "space-in-parens": [2, "always"],
+    "template-curly-spacing": [2, "always"],
+    "array-bracket-spacing": [2, "always"],
+    "object-curly-spacing": [2, "always"],
+    "computed-property-spacing": [2, "always"],
+    "no-multiple-empty-lines": [2, { "max": 1, "maxEOF": 0, "maxBOF": 0 }],
+    "jsx-a11y/anchor-is-valid": 0,
+    "react/jsx-filename-extension": 0,
+    "react/forbid-prop-types": 0
+  }
+}

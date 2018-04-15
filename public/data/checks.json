@@ -1,0 +1,22 @@
+[
+  {
+    "id": "0ca23e8c-00ea-4ef4-9e10-001f86569b86",
+    "dateCreated": "2017-11-14T17:16:20.544813Z",
+    "dateUpdated": "2017-11-16T22:16:04.497084Z",
+    "createdBy": "admin",
+    "tableId": "2644ece3-83dd-4deb-ae02-54f4df083e16",
+    "closed": false,
+    "tax": 1,
+    "tip": 2.43
+  },
+  {
+    "id": "56d7b4d3-789b-4fa4-ac6d-c329cc5a3a15",
+    "dateCreated": "2017-11-16T21:48:49.443236Z",
+    "dateUpdated": "2017-11-16T21:48:49.443236Z",
+    "createdBy": "admin",
+    "tableId": "c482731d-19a4-4d1f-90ab-e4dc4ac7d28d",
+    "closed": false,
+    "tax": null,
+    "tip": null
+  }
+]

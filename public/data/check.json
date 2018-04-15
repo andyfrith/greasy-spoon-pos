@@ -1,0 +1,30 @@
+{
+  "id": "0ca23e8c-00ea-4ef4-9e10-001f86569b86",
+  "dateCreated": "2017-11-14T17:16:20.544813Z",
+  "dateUpdated": "2017-11-16T22:16:04.497084Z",
+  "createdBy": "admin",
+  "tableId": "2644ece3-83dd-4deb-ae02-54f4df083e16",
+  "closed": true,
+  "tax": 1,
+  "tip": 2.43,
+  "orderedItems": [
+    {
+      "id": "bb640a13-26ad-4484-826e-db15653a22e6",
+      "dateCreated": "2017-11-14T21:46:16.726296Z",
+      "dateUpdated": "2017-11-14T21:46:16.726296Z",
+      "createdBy": "admin",
+      "checkId": "0ca23e8c-00ea-4ef4-9e10-001f86569b86",
+      "itemId": "92d26789-a296-4910-b7a9-b08e68d9e44d",
+      "voided": false
+    },
+    {
+      "id": "dff5fc06-3e97-4099-b91e-94b4c7a05982",
+      "dateCreated": "2017-11-14T21:45:10.086868Z",
+      "dateUpdated": "2017-11-16T22:13:54.33976Z",
+      "createdBy": "admin",
+      "checkId": "0ca23e8c-00ea-4ef4-9e10-001f86569b86",
+      "itemId": "348e706c-ab3b-4a6e-a391-8de96ac7e0a3",
+      "voided": true
+    }
+  ]
+}

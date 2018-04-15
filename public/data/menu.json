@@ -1,0 +1,62 @@
+[
+  {
+    "id": "348e706c-ab3b-4a6e-a391-8de96ac7e0a3",
+    "name": "PULL-APART BREAD",
+    "price": 4.5
+  },
+  {
+    "id": "92d26789-a296-4910-b7a9-b08e68d9e44d",
+    "name": "GREEN SALAD ",
+    "price": 8
+  },
+  {
+    "id": "abae32ec-05e5-4072-ba54-3a46764a5eff",
+    "name": "MORTGAGE LIFTER BEANS",
+    "price": 6
+  },
+  {
+    "id": "242b1e7c-c233-4324-8b8c-cbf43723395b",
+    "name": "TOMATO TOAST",
+    "price": 5.5
+  },
+  {
+    "id": "35b6c0b0-afdc-4df6-a690-30fbcd4a2a04",
+    "name": "MORGANE’S BEEF CHILI",
+    "price": 6
+  },
+  {
+    "id": "3aa7eef8-a37a-4a05-83c5-22e99e531781",
+    "name": "CHICKEN CAESAR",
+    "price": 13
+  },
+  {
+    "id": "7fde8abf-0589-4446-9905-9185b4c2b598",
+    "name": "THREE SISTERS SALAD",
+    "price": 13
+  },
+  {
+    "id": "cf09ccf2-ece2-4771-81c5-deff1fe08d79",
+    "name": "MARINATED STEAK BOWL",
+    "price": 15
+  },
+  {
+    "id": "a34074ea-2949-40f9-94fe-d3404607861b",
+    "name": "OUR BURGER",
+    "price": 14
+  },
+  {
+    "id": "4b48707c-619b-42b1-8b8a-3da51feacf95",
+    "name": "HAM & CHEESE PRESS",
+    "price": 12.5
+  },
+  {
+    "id": "6b6e59e3-0861-48b1-85c0-778df1126e19",
+    "name": "PATTY MELT",
+    "price": 12.5
+  },
+  {
+    "id": "f58948c7-9feb-44ea-b0cc-9013406b9a51",
+    "name": "COOKIES & MILK",
+    "price": 5
+  }
+]
