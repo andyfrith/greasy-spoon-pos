@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/andyfrith/react-portal/master/public/img/GreasyDiner1.png" alt="Greasy Diner" align="center" />
+<br />
+<img src="https://raw.githubusercontent.com/andyfrith/react-portal/master/public/img/GreasyDiner2.png" alt="Greasy Diner" align="center" />
+
 # greasy-spoon-pos
 
 This demo is a React Redux application that provides minimal features of a very basic restaurant Point of Sale system.
