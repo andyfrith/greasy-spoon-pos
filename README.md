@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/andyfrith/react-portal/master/public/img/GreasyDiner1.png" alt="Greasy Diner" align="center" />
+<img src="https://github.com/andyfrith/greasy-spoon-pos/blob/master/public/img/GreasySpoon1.png" alt="Greasy Spoon" align="center" />
 <br />
-<img src="https://raw.githubusercontent.com/andyfrith/react-portal/master/public/img/GreasyDiner2.png" alt="Greasy Diner" align="center" />
+<img src="https://github.com/andyfrith/greasy-spoon-pos/blob/master/public/img/GreasySpoon2.png" alt="Greasy Spoon" align="center" />
 
 # greasy-spoon-pos
 
